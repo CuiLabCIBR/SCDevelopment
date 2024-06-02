@@ -1,7 +1,7 @@
 # SCDevelopment
 Data and codes for our paper "Structural connectivity matures along a sensorimotor-association connectional axis in youth".
 
-Most codes were written in R, and a few in Matlab. The original data for these analyses are available via the NIMH Data Archive (NDA),  [the Adolescent Brain Cognitive Development, (ABCD)]([https://nda.nih.gov/abcd](https://nda.nih.gov/abcd)), [the Lifespan Human Connectome Project in Development (HCP-D)](https://nda.nih.gov/ccf)
+Most codes were written in R, and a few in Matlab. The original data for these analyses are available via the NIMH Data Archive (NDA) [the Adolescent Brain Cognitive Development, (ABCD)](https://nda.nih.gov/abcd), [the Lifespan Human Connectome Project in Development (HCP-D)](https://nda.nih.gov/ccf)
 
 ## demopath
 This folder contains the demographic, cognitive, and psychopathological characteristics of the participants in the ABCD and HCP-D datasets. `DemodfScreenFinal.csv` is for the ABCD dataset. `HCPD_demo_behav.csv` is for the HCP-D dataset. The codes for organizing these dataframes are located in `/development_script/1st_dataclean/merge_demography_info_and_screen`.
